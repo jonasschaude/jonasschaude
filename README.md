@@ -4,6 +4,8 @@
             src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@jonas.schaude" title="Medium"><img
             src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white" /></a>
+    <a href="https://jonasschaude.com" title="Website"><img
+            src="https://img.shields.io/badge/Website-e4405f?style=flat-square&logo=Website&logoColor=white" /></a>
 </p>
 
 
